@@ -1,4 +1,4 @@
-package modulo6;
+package practica6;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;

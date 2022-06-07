@@ -1,4 +1,4 @@
-package modulo5;
+package practica5;
 import java.util.Scanner;
 
 public class EjemploStringJava {
